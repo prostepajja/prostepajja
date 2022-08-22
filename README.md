@@ -10,4 +10,4 @@
 </table>
 
 
-<img src=https://media.tenor.com/DaSh5T93TgUAAAPo/cat-typing.mp4" />
+<img src="https://c.tenor.com/DaSh5T93TgUAAAAC/cat-typing.gif" />
